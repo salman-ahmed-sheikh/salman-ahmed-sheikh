@@ -21,7 +21,7 @@ I'm a **Data Science practitioner** with an vast interest in **Natural Language 
 
 ### 🤝🏻 Connect with me:
 
-#### [![image](https://user-images.githubusercontent.com/74875690/124563510-859c4a00-de59-11eb-9510-c4bb6151b4a8.png)](https://www.kaggle.com/salman9) [![image](https://user-images.githubusercontent.com/74875690/126060114-494dbee5-6aa6-4cf1-bf48-b6b0d94915d0.png)](https://www.linkedin.com/in/salmanahmedsheikh/) [![image](https://user-images.githubusercontent.com/74875690/126060145-35e7bb27-491d-4a2f-ab38-5a7ad23f336f.png)](salman.ah.sheikh@gmail.com)
+#### [![image](https://user-images.githubusercontent.com/74875690/124563510-859c4a00-de59-11eb-9510-c4bb6151b4a8.png)](https://www.kaggle.com/salman9) [![image](https://user-images.githubusercontent.com/74875690/126060114-494dbee5-6aa6-4cf1-bf48-b6b0d94915d0.png)](https://www.linkedin.com/in/salmanahmedsheikh/) [![image](https://user-images.githubusercontent.com/74875690/126060145-35e7bb27-491d-4a2f-ab38-5a7ad23f336f.png)](salman.ah.sheikh@gmail.com)[![image](https://github.com/salman-ahmed-sheikh/sample-free/blob/master/fiverr.png?raw=true)](https://www.fiverr.com/users/salman_54/)[![image](https://user-images.githubusercontent.com/74875690/126060145-35e7bb27-491d-4a2f-ab38-5a7ad23f336f.png)](salman.ah.sheikh@gmail.com)[![image](https://user-images.githubusercontent.com/74875690/126060145-35e7bb27-491d-4a2f-ab38-5a7ad23f336f.png)](salman.ah.sheikh@gmail.com)
 
 
 
