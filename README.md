@@ -11,7 +11,7 @@
   </a>
   &nbsp;&nbsp;
   
-  <a href="https://github.com/salman-ahmed-sheikh"><img src="https://img.shields.io/github/followers/salman-ahmed-sheikh?style=social"></a>
+
   
   &nbsp;&nbsp;
   <a href="https://github.com/salman-ahmed-sheikh?tab=repositories">
@@ -19,6 +19,9 @@
   </a>  
 </p>
 
+<p align =center>
+    <a href="https://github.com/salman-ahmed-sheikh"><img src="https://img.shields.io/github/followers/salman-ahmed-sheikh?style=social"></a>
+  </p>
 
 I'm a **Data Science practitioner** with an vast interest in **Natural Language Processing** and **Machine Learning.**
 
