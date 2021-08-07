@@ -5,9 +5,15 @@
   <a href="https://github.com/salman-ahmed-sheikh">
     <img src="https://badges.pufler.dev/visits/salman-ahmed-sheikh/salman-ahmed-sheikh?style=flat-square&color=black&logo=github">
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/salman-ahmed-sheikh">
     <img src="https://badges.pufler.dev/years/salman-ahmed-sheikh?style=flat-square&color=green&logo=tensorflow">
   </a>
+  &nbsp;&nbsp;
+  
+  <a href="https://github.com/salman-ahmed-sheikh"><img src="https://img.shields.io/github/followers/salman-ahmed-sheikh?style=social"></a>
+  
+  &nbsp;&nbsp;
   <a href="https://github.com/salman-ahmed-sheikh?tab=repositories">
     <img src="https://badges.pufler.dev/repos/salman-ahmed-sheikh?style=flat-square&color=black&logo=github">
   </a>  
