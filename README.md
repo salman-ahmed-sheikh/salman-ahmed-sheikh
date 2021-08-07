@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Salman!
-
+<hr>
 
 <p align=center>
   <a href="https://github.com/salman-ahmed-sheikh">
@@ -19,16 +19,16 @@
     <a href="https://github.com/salman-ahmed-sheikh"><img src="https://img.shields.io/github/followers/salman-ahmed-sheikh?style=social"></a>
   </p>
 
-I'm a **Data Science practitioner** with an vast interest in **Natural Language Processing** and **Machine Learning.**
+I'm a **Machine Learning Engineer** with an vast interest in **Computer Vision**, **Natural Language Processing** and **Deep Learning.**
 
 
-* 🔭 I’m currently working on mutiple **Data Science/Analytics Projects.**         
-* 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.                                   
-
+* 🔭 I’m currently working at **[zerozai](zerozai.com)** as a Senior Machine Learning Engineer.
+* 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
+* :heart: I love to work on Open Source Projects.
                                                                                   
-* 💻 I'm looking for an experience in field of **Natural language processing.**
+
 * 💬 Ask me about anything [here](https://www.linkedin.com/in/salmanahmedsheikh/) I am happy to help.
-* 🥅 2021 Goals: Contribute more to Open Source projects.
+* 🥅 2021 Goals: Start working on my own ML product.
 * ⚡ Fun fact: love to code and solve problems
 * 📌 Scroll down to see my **Pinned Repositories.**
 
