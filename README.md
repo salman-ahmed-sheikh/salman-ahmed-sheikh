@@ -22,7 +22,7 @@
 I'm a **Machine Learning Engineer** with an vast interest in **Computer Vision**, **Natural Language Processing** and **Deep Learning.**
 
 
-* 🔭 I’m currently working at **[zerozai](zerozai.com)** as a Senior Machine Learning Engineer.
+* 🔭 I’m currently working at **[zerozai](https://zerozai.com)** as a Senior Machine Learning Engineer.
 * 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 * :heart: I love to work on Open Source Projects.
                                                                                   
