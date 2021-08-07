@@ -10,10 +10,6 @@
     <img src="https://badges.pufler.dev/years/salman-ahmed-sheikh?style=flat-square&color=green&logo=tensorflow">
   </a>
   &nbsp;&nbsp;
-  
-
-  
-  &nbsp;&nbsp;
   <a href="https://github.com/salman-ahmed-sheikh?tab=repositories">
     <img src="https://badges.pufler.dev/repos/salman-ahmed-sheikh?style=flat-square&color=black&logo=github">
   </a>  
