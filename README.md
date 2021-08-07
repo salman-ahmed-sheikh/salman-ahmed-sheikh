@@ -27,12 +27,14 @@ I'm a **Data Science practitioner** with an vast interest in **Natural Language 
 
                                                                                   
 * 💻 I'm looking for an experience in field of **Natural language processing.**
-* 💬 Ask me about anything [here](https://www.linkedin.com/in/hammad-asif-32b54a207/) I am happy to help.
+* 💬 Ask me about anything [here](https://www.linkedin.com/in/salmanahmedsheikh/) I am happy to help.
 * 🥅 2021 Goals: Contribute more to Open Source projects.
 * ⚡ Fun fact: love to code and solve problems
 * 📌 Scroll down to see my **Pinned Repositories.**
 
-
+<p align="center">
+<img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
+</p>
 
 ### 🤝🏻 Connect with me:
 
