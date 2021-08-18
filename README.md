@@ -18,6 +18,11 @@
 <p align =center>
     <a href="https://github.com/salman-ahmed-sheikh"><img src="https://img.shields.io/github/followers/salman-ahmed-sheikh?style=social"></a>
   </p>
+  
+  
+  <p align="center">
+  <img src="https://www.codewars.com/users/salman-ahmed-sheikh/badges/large">
+  </p>
 
 I'm a **Machine Learning Engineer** with an vast interest in **Computer Vision**, **Natural Language Processing** and **Deep Learning.**
 
