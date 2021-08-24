@@ -21,7 +21,7 @@
   
   
   <p align="center">
-  <a href="https://www.codewars.com/users/salman-ahmed-sheikh"><img src="https://www.codewars.com/users/salman-ahmed-sheikh/badges/large"></a>
+  <a target="_blank" href="https://www.codewars.com/users/salman-ahmed-sheikh"><img src="https://www.codewars.com/users/salman-ahmed-sheikh/badges/large"></a>
   </p>
 
 I'm a **Machine Learning Engineer** with an vast interest in **Computer Vision**, **Natural Language Processing** and **Deep Learning.**
