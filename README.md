@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Salman!
+## Hi there 👋 I'm Salman! Professional Google Tensorflow Certified 
 <hr>
 
 <p align=center>
@@ -25,9 +25,8 @@
   </p>
 
 <p align= center>
-  <h2>Google Tensorflow Certified </h2>
-  <img src="https://www.credential.net/4a7a9418-ebdf-4d20-86be-6b328797a3ad#gs.ba7k6w">
-  <a target="_blank", href="https://www.credential.net/4a7a9418-ebdf-4d20-86be-6b328797a3ad">Here are the Credentials</a>
+  
+  <a target="_blank", href="https://www.credential.net/4a7a9418-ebdf-4d20-86be-6b328797a3ad">Here are the Tensorflow certificate Credentials</a>
   </p>
 
 
