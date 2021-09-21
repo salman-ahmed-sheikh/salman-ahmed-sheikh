@@ -24,8 +24,8 @@
   <a target="_blank", href="https://www.codewars.com/users/salman-ahmed-sheikh"><img src="https://www.codewars.com/users/salman-ahmed-sheikh/badges/large"></a>
   </p>
 
-<p align="center">
-  <h3>Tensorflow Certified </h3>
+<p align= center>
+  <h2>Google Tensorflow Certified </h2>
   <img src="https://www.credential.net/4a7a9418-ebdf-4d20-86be-6b328797a3ad#gs.ba7k6w">
   <a target="_blank", href="https://www.credential.net/4a7a9418-ebdf-4d20-86be-6b328797a3ad">Here are the Credentials</a>
   </p>
